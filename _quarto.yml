@@ -1,0 +1,62 @@
+project:
+  type: book
+  execute-dir: project
+
+execute: 
+  echo: false
+  warning: false
+  message: false
+
+book:
+  title: "Diss Title"
+  author: "Alberto Guzman-Alvarez"
+  output-file: "alberto_guzmanalvarez_diss"
+  chapters:
+    - index.qmd
+    - 01-intro.qmd
+    - 02-propensity_over.qmd
+    - 03-commonapp_over.qmd
+    - simulation_code.qmd
+    - references.qmd
+
+bibliography: "https://api.citedrive.com/bib/a3b2d1f7-6632-4857-8038-c222a4053fa1/references.bib?x=eyJpZCI6ICJhM2IyZDFmNy02NjMyLTQ4NTctODAzOC1jMjIyYTQwNTNmYTEiLCAidXNlciI6ICIyMDQxIiwgInNpZ25hdHVyZSI6ICI4MDNmNDRkNGI0ZGFlNzlhMThhMDEwZjAwYTUxN2QzOTQ1YzUxYTc5Y2QxMzc5OGQ2OGJjOTIyZmEwOGFkODJiIn0=/bibliography.bib"
+csl: apa.csl
+
+format:
+  pdf:
+    documentclass: book
+    classoption: ["oneside", "open=any"]
+    margin-left: "1in"
+    margin-right: "1in"
+    margin-top: "1in"
+    margin-bottom: "1in" 
+    linestretch: 2
+    template-partials: 
+      - "tex/before-body.tex" 
+      - "tex/_titlepage.tex" 
+      - "tex/toc.tex" 
+    include-in-header: 
+      - text: | 
+          \usepackage{indentfirst}
+          \setlength{\parindent}{1cm}
+          \usepackage{fvextra}
+          \DefineVerbatimEnvironment{Highlighting}{Verbatim}{breaklines,commandchars=\\\{\}}
+          \usepackage{setspace}
+          \doublespacing
+          \pagenumbering{gobble} 
+          \usepackage{sectsty}
+          \usepackage{titlesec}
+          \titleformat{\chapter}[display]
+          {\normalfont\bfseries\centering}{}{0pt}{\fontsize{12}{15}\selectfont}
+          \titlespacing*{\chapter}{0pt}{0ex plus 1ex minus .2ex}{4.3ex plus .2ex}
+          \titlespacing*{\section}{0pt}{5.5ex plus 1ex minus .2ex}{4.3ex plus .2ex}
+          \titlespacing*{\subsection}{0pt}{5.5ex plus 1ex minus .2ex}{4.3ex plus .2ex}
+          \sectionfont{\fontsize{12}{15}\selectfont\centering}
+          \subsectionfont{\fontsize{12}{15}\selectfont\centering}
+          
+    toc: true
+    toc-depth: 3
+    lot: true
+    lof: true
+    number-sections: TRUE
+    

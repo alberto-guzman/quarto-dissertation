@@ -1,0 +1,32 @@
+$if(has-frontmatter)$
+  \begin{frontmatter}
+  \begin{titlepage}
+  $_titlepage.tex()$
+  \end{titlepage}
+  \end{frontmatter}
+$else$
+  \begin{titlepage}
+  $_titlepage.tex()$
+  \end{titlepage}
+$endif$
+
+% Committee page
+\input{tex/comittee.tex}
+
+% Copyright page
+\input{tex/copyright.tex}
+
+% Abstract page
+\input{tex/abstract.tex}
+
+% Order of TOC, LOT, and LOF
+$if(toc)$
+\tableofcontents
+$endif$
+$if(lot)$
+\listoftables
+$endif$
+$if(lof)$
+\listoffigures
+$endif$
+
