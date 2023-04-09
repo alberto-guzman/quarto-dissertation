@@ -1,22 +1,5 @@
 # Acknowledgements {.unnumbered}
 
-This dissertation is dedicated to mis padres (Eloisa Guzman and Antonio Alvarez). I am indebted to them for the sacrifices and injustices they faced when they came to this country as teenagers, and for the love and support they provided for me and my siblings. Gracias a ti, mamá, por todo el amor y cariño que me has dado toda mi vida, y los sacrificios que hiciste por los otros para darles una mejor vida. Gracias a ti, papá, por tu apoyo a nuestra educación y por enseñarnos que con educación podemos mejorar.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vestibulum vehicula consequat. Pellentesque consectetur dignissim aliquam. Maecenas in tellus sollicitudin, pretium dui a, aliquam nulla. Integer est mauris, ultrices vel blandit at, rutrum molestie orci. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Morbi nec varius lorem. Fusce a faucibus lectus. Sed eros erat, iaculis id fringilla vitae, egestas in odio. Nam dapibus suscipit dolor, sit amet ullamcorper augue euismod ac. Aliquam quis magna quis augue ornare ultrices.
 
-To my sisters (Stephanie, Adriana, Jacky), I can't express how much your support and love have meant to me throughout graduate school. This dissertation is as much yours as it is mine. To our dogs, Chico and Cookie, thank you for always greeting me with lots of kisses and tail wags when I would visit home after a long flight from Pittsburgh.
-
-To my better half, Mike, thank you for all the love and support. During my lowest times in graduate school, you were always there to lift me up. You were the constant motivation when I felt like I couldn't write this dissertation, and you were always there to cheer me up. I love you.
-
-To my advisor, Lindsay Page, thank you for your support and mentorship throughout these years. You have taught me how to be a good researcher, but most importantly, how to be a good colleague. Thank you for opening doors to opportunities I found unimaginable. My accomplishments are yours as well. To my co-advisor, Xu Qin, thank you for making me a better methodologist and for treating me like a peer when I didn't feel deserving. To Paul Scott, thank you for your friendship. You were such a welcoming presence when I first came to the Research Methods Department, and in you, I found a mentor and friend. To Rip Correnti, thank you for adopting me into the LSAP family and for your support throughout my time in LSAP. To Gina Garcia, thank you for being such a cheerleader to me and helping me remember to be my own authentic self even in these academic spaces.
-
-In addition, I have tremendous gratitude for the friends I have made during my graduate career. To emily H., thank you for your friendship. I can't describe how you have helped me process the roller coaster that is grad school. To my academic siblings Danielle, Aizat, and Aaron, thank you for helping me navigate graduate school and for your years of friendship. To Jordan, Lexy, Emily K., Eben, thank you for your friendship and the beers we shared.
-
-After six cloudy years, Mike and I moved to Davis, CA, where I wrote the bulk of my dissertation. Thank you to my UC Davis academic family Michal Kurlander, Marcella Cuellar, Paco Martorell, and the new friends I made in the School of Education - Jaime, Mayra, Teresita, and Robbie. To Devon, thank you for hyping me up when I most needed it. Coming back to California allowed me to be closer to my close friends Marina, Kaitlin, Luis, Stephanie, Amy, and Alisa. Thank you for your support throughout these years, even when I was so far away.
-
-Finally, I want to thank the National Academy of Education and the Spencer Foundation for their generous support in funding my dissertation work, and the Capital One Foundation.
-
-To everyone, words cannot express the gratitude I have for your friendship and support. ¡Gracias!
-
-
-
-
-
+Sed malesuada maximus est et pellentesque. Mauris et laoreet neque, et mollis nunc. Donec neque erat, lobortis eu sagittis eget, commodo quis lacus. Aenean iaculis aliquet augue, eu suscipit justo volutpat eget. Suspendisse potenti. Praesent tempor tortor metus, sed interdum purus eleifend id. Vestibulum id malesuada elit. Mauris finibus sem sapien, id pulvinar urna dictum pharetra. In hac habitasse platea dictumst. Mauris eu neque nec felis congue egestas. Aenean eget nibh in purus fringilla ullamcorper.

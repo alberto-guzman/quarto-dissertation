@@ -8,15 +8,14 @@ execute:
   message: false
 
 book:
-  title: "Diss Title"
-  author: "Alberto Guzman-Alvarez"
-  output-file: "alberto_guzmanalvarez_diss"
+  title: "Dissertation Title" 
+  author: "Author"
+  output-file: "author_diss"
   chapters:
     - index.qmd
     - 01-intro.qmd
-    - 02-propensity_over.qmd
-    - 03-commonapp_over.qmd
-    - simulation_code.qmd
+    - 02-study1.qmd
+    - 03-study2.qmd
     - references.qmd
 
 bibliography: "https://api.citedrive.com/bib/a3b2d1f7-6632-4857-8038-c222a4053fa1/references.bib?x=eyJpZCI6ICJhM2IyZDFmNy02NjMyLTQ4NTctODAzOC1jMjIyYTQwNTNmYTEiLCAidXNlciI6ICIyMDQxIiwgInNpZ25hdHVyZSI6ICI4MDNmNDRkNGI0ZGFlNzlhMThhMDEwZjAwYTUxN2QzOTQ1YzUxYTc5Y2QxMzc5OGQ2OGJjOTIyZmEwOGFkODJiIn0=/bibliography.bib"

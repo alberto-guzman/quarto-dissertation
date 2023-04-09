@@ -1,21 +1,13 @@
-\pagestyle{plain}
+# Study 2 Title
 
-\begin{center}
-   % Wrap the title in a singlespacing environment
-   \begin{singlespace}
-        \textbf{Dissertation title}
-   \end{singlespace}
-   
-   % Add a vertical space between the title and your name
-   \vspace{1\baselineskip}
-   
-        Alberto Guzman-Alvarez, PhD\\
-        University of Pittsburgh, 2023\\
-\end{center}
-\vspace*{1\baselineskip}
+## Introduction
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vestibulum vehicula consequat. Pellentesque consectetur dignissim aliquam. Maecenas in tellus sollicitudin, pretium dui a, aliquam nulla. Integer est mauris, ultrices vel blandit at, rutrum molestie orci. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Morbi nec varius lorem. Fusce a faucibus lectus. Sed eros erat, iaculis id fringilla vitae, egestas in odio. Nam dapibus suscipit dolor, sit amet ullamcorper augue euismod ac. Aliquam quis magna quis augue ornare ultrices.
 
 Sed malesuada maximus est et pellentesque. Mauris et laoreet neque, et mollis nunc. Donec neque erat, lobortis eu sagittis eget, commodo quis lacus. Aenean iaculis aliquet augue, eu suscipit justo volutpat eget. Suspendisse potenti. Praesent tempor tortor metus, sed interdum purus eleifend id. Vestibulum id malesuada elit. Mauris finibus sem sapien, id pulvinar urna dictum pharetra. In hac habitasse platea dictumst. Mauris eu neque nec felis congue egestas. Aenean eget nibh in purus fringilla ullamcorper.
 
-\newpage
+### Subsection
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vestibulum vehicula consequat. Pellentesque consectetur dignissim aliquam. Maecenas in tellus sollicitudin, pretium dui a, aliquam nulla. Integer est mauris, ultrices vel blandit at, rutrum molestie orci. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Morbi nec varius lorem. Fusce a faucibus lectus. Sed eros erat, iaculis id fringilla vitae, egestas in odio. Nam dapibus suscipit dolor, sit amet ullamcorper augue euismod ac. Aliquam quis magna quis augue ornare ultrices.
+
+![Figure caption](figures/ps_dist.png)
