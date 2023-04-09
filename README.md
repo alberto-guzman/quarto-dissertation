@@ -2,7 +2,7 @@
 
 This is a Quarto extension that renders a PDF of a dissertation/thesis. It was originally designed based on the University of Pittsburgh [LaTeX template](https://etd.pitt.edu/latex-template). This template is intended to help scholars create their own reproducible dissertations/theses.
 
-The extension primarily works using Quarto and a series of LaTeX templates found in the tex folder. Additionally, the template was created to be used for a 3-paper dissertation/thesis, although it can be easily modified to accommodate a traditional dissertation – just swap the .qmd files with your dissertation chapters.
+The extension primarily works using Quarto and a series of LaTeX templates found in the `tex` folder. Additionally, the template was created to be used for a 3-paper dissertation/thesis, although it can be easily modified to accommodate a traditional dissertation – just swap the .qmd files with your dissertation chapters.
 
 ## Installing the extension
 
