@@ -30,6 +30,6 @@ Happy Writing!
 
 ## Example of Rendered Title Page and TOC
 
-![Title Page](example_of_rendered_document/author_diss1024_1.png)
-![Table of Contents](example_of_rendered_document/author_diss1024_5.png)
+![Title Page](images/author_diss1024_1.png)
+![Table of Contents](images/author_diss1024_5.png)
 
