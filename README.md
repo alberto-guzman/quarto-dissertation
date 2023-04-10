@@ -6,7 +6,7 @@ The extension primarily works using Quarto and a series of LaTeX templates found
 
 ## Example of Rendered PDF
 
-![Title Page](example_of_redered_document/author_diss1024.png)
+![Title Page](example_of_rendered_document/author_diss1024_1.png)
 
 
 
