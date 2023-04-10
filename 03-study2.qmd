@@ -1,4 +1,4 @@
-# Study 1 Title
+# Study 2 Title
 
 | Col1 | Col2 | Col3 |
 |------|------|------|
