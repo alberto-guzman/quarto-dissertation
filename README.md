@@ -14,7 +14,7 @@ To use this extension, navigate to your desired directory and type the following
 quarto use template alberto-guzman/quarto-dissertation
 ```
 
-## Installing on an existing document
+## Using template on an existing directory/folder
 
 If you already have an existing Quarto project or document, you may add the template by typing the following in your terminal:
 
