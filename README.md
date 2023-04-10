@@ -4,6 +4,8 @@ This is a Quarto extension that renders a PDF of a dissertation/thesis. It was o
 
 The extension primarily works using Quarto and a series of LaTeX templates found in the `tex` folder. Additionally, the template was created to be used for a 3-paper dissertation/thesis, although it can be easily modified to accommodate a traditional dissertation – just swap the .qmd files with your dissertation chapters.
 
+Example of complete rendered PDF can be found here: [View PDF](_book/author_diss.pdf)
+
 ## Installing the extension
 
 To use this extension, navigate to your desired directory and type the following command in your terminal:
@@ -30,8 +32,4 @@ Happy Writing!
 
 ![Title Page](example_of_rendered_document/author_diss1024_1.png)
 ![Table of Contents](example_of_rendered_document/author_diss1024_5.png)
-
-Example of complete rendered PDF can be found here: [View PDF](_book/author_diss.pdf)
-
-
 
